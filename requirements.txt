@@ -1,0 +1,7 @@
+discord
+flask
+python-dotenv
+pytest
+pytest-asyncio
+dpytest
+PyNaCl
